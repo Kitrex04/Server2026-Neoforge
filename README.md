@@ -23,7 +23,7 @@
 
 ## 📥 Instalación
 
-1. Descarga la última versión del modpack desde [enlace de descarga si lo tienes].
+1. Descarga la última versión del modpack desde https://github.com/Kitrex04/Server2026-Neoforge/releases/download/0.1/mods.zip
 2. Asegúrate de tener instalado tu lanzador de confianza.
 3. Pega la carpeta mods dentro de tu %appdata% .minecraft
 4. ¡Prepárate para la aventura y disfruta del servidor!
