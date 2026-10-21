@@ -1,6 +1,6 @@
 # ⚔️ ENEMIGO ABATIDOH SERVER - RPG & Adventure
 
-¡Bienvenido al repositorio oficial de **[Nombre de tu Modpack]**! Este pack de mods está diseñado para transformar la experiencia clásica de Minecraft en una auténtica **aventura RPG de mundo abierto**, combinando exploración profunda, combates desafiantes y un rendimiento impecable.
+¡Bienvenido al repositorio oficial de **ENEMIGO ABATIDOH! Este pack de mods está diseñado para transformar la experiencia clásica de Minecraft en una auténtica **aventura RPG de mundo abierto**, combinando exploración profunda, combates desafiantes y un rendimiento impecable.
 
 ---
 
