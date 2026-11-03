@@ -1,6 +1,6 @@
-# ⚔️ ENEMIGO ABATIDOH SERVER - RPG & Adventure
+# ⚔️ ALACRANEScity
 
-¡Bienvenido al repositorio oficial de **ENEMIGO ABATIDOH! Este pack de mods está diseñado para transformar la experiencia clásica de Minecraft en una auténtica **aventura RPG de mundo abierto**, combinando exploración profunda, combates desafiantes y un rendimiento impecable.
+¡Bienvenido al repositorio oficial de mi server Este pack de mods está diseñado para transformar la experiencia clásica de Minecraft en una auténtica **aventura RPG de mundo abierto**, combinando exploración profunda, combates desafiantes y un rendimiento impecable.
 
 ---
 
@@ -15,9 +15,9 @@
 
 ## 🛠️ Tecnologías y Requisitos
 
-*   **Versión de Minecraft:** [1.21.1]
-*   **Cargador de mods [NeoForge]
-*   **Optimizaciones incluidas:** [Sodium / Lithium]
+*   **Versión de Minecraft:** [1.20.1]
+*   **Cargador de mods [Forge]
+*   **Optimizaciones incluidas:** [Sodium / Lithium/embeddium]
 
 ---
 
@@ -26,6 +26,7 @@
 1. Descarga la última versión del modpack desde https://github.com/Kitrex04/Server2026-Neoforge/releases/download/0.1/mods.zip
 2. Asegúrate de tener instalado tu lanzador de confianza.
 3. Pega la carpeta mods dentro de tu %appdata% .minecraft
-4. ¡Prepárate para la aventura y disfruta del servidor!
+4. pega la ip del servidor: Alacranescity.aternos.me:28361
+5. ¡Prepárate para la aventura y disfruta del servidor!
 
 ---
